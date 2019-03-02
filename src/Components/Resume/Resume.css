@@ -1,0 +1,18 @@
+
+
+* {
+	margin: 0;
+	padding: 0;
+	outline: 0;
+    box-sizing: border-box;
+} 
+
+
+
+.templete { 
+    width: 60%; 
+    margin: auto; 
+    font-family: Arial; 
+} 
+
+
